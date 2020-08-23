@@ -1,0 +1,11 @@
+.vscode
+
+.eggs
+*.egg-info
+
+build
+dist
+
+hello_pkg/version.py
+
+__pycache__
